@@ -1,0 +1,5 @@
+.heroimg{
+    background-image: url('/assests/cover.jpg');
+    background-position: center;
+    background-size: cover;
+}

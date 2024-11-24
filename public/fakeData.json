@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Explore the Amazon Rainforest",
+    "description": "Dive into the world’s largest rainforest and discover its incredible biodiversity.",
+    "image": "./assests/1.jpg",
+    "buttonText": "Discover More",
+    "type": "forest",
+    "rating": 4.8,
+    "watchCount": 1200,
+    "location": "Amazon Rainforest, Brazil",
+    "category": "Adventure"
+  },
+  {
+    "id": 2,
+    "title": "Save the Polar Bears",
+    "description": "Learn about the effects of climate change on polar bears and how you can help.",
+    "image": "./assests/2.jpg",
+    "buttonText": "Learn More",
+    "type": "wildlife",
+    "rating": 4.6,
+    "watchCount": 950,
+    "location": "Arctic Region",
+    "category": "Wildlife"
+  },
+  {
+    "id": 3,
+    "title": "Eco-Friendly Living Tips",
+    "description": "Practical ways to reduce your environmental footprint and live sustainably.",
+    "image": "./assests/3.jpg",
+    "buttonText": "Get Tips",
+    "type": "tips",
+    "rating": 4.7,
+    "watchCount": 1500,
+    "category": "Eco-Friendly"
+  },
+  {
+    "id": 4,
+    "title": "Mountain Hiking Trails",
+    "description": "Explore breathtaking trails and reconnect with nature on your next adventure.",
+    "image": "./assests/4.jpg",
+    "buttonText": "View Trails",
+    "type": "activity",
+    "rating": 4.9,
+    "watchCount": 2000,
+    "location": "Rocky Mountains, USA",
+    "category": "Adventure",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 5,
+    "title": "Plant a Tree Campaign",
+    "description": "Join us in planting trees to combat deforestation and restore ecosystems.",
+    "image": "./assests/5.jpg",
+    "buttonText": "Join Us",
+    "type": "event",
+    "rating": 4.8,
+    "watchCount": 1800,
+    "location": "Global",
+    "category": "Environment"
+  },
+  {
+    "id": 6,
+    "title": "Protect Coral Reefs",
+    "description": "Discover the beauty and importance of coral reefs and how to protect them.",
+    "image": "./assests/6.jpg",
+    "buttonText": "Learn How",
+    "type": "wildlife",
+    "rating": 4.5,
+    "watchCount": 1400,
+    "location": "Great Barrier Reef, Australia",
+    "category": "Wildlife"
+  },
+  {
+    "id": 7,
+    "title": "Recycling Made Easy",
+    "description": "Understand the importance of recycling and how to do it effectively.",
+    "image": "./assests/7.jpg",
+    "buttonText": "Start Recycling",
+    "type": "tips",
+    "rating": 4.4,
+    "watchCount": 1300,
+    "category": "Sustainability"
+  },
+  {
+    "id": 8,
+    "title": "Safari Adventure",
+    "description": "Experience the thrill of a safari and get up close with wildlife.",
+    "image": "./assests/8.jpg",
+    "buttonText": "Book Now",
+    "type": "activity",
+    "rating": 4.9,
+    "watchCount": 1700,
+    "location": "Serengeti, Tanzania",
+    "category": "Adventure",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 9,
+    "title": "Ocean Clean-Up Drive",
+    "description": "Participate in cleaning up our oceans and saving marine life.",
+    "image": "./assests/9.jpg",
+    "buttonText": "Volunteer",
+    "type": "event",
+    "rating": 4.7,
+    "watchCount": 1600,
+    "location": "Pacific Ocean",
+    "category": "Environment"
+  }
+]
